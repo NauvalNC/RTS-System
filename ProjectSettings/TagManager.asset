@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - playable
-  - enemy
-  - navmesh
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -16,12 +13,12 @@ TagManager:
   - UI
   - 
   - 
-  - playable
-  - enemy
-  - navmesh
-  - 
-  - 
-  - 
+  - HitMask
+  - Boundary
+  - Hitter
+  - PlayerHitMask
+  - Item
+  - PlayerHitter
   - 
   - 
   - 
