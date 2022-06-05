@@ -1,6 +1,11 @@
 # RTS System
 This is my AI project for COMP6641. This is a AI tool made in Unity engine. This tools is about RTS (Real-time Strategy) system where player can control group of troops. 
 Player can command this troops to fight againts enemies or help to build buildings in game.
+# Installation
+* Clone this project
+* Open the project with Unity **2020.3.20f1** or higher.
+* Use **URP Pipeline** for your project.
+* Make sure you have **TextMeshPro** installed.
 # Game Features
 * Player can control troops movement using **NavMesh**. Tap on map point to move the selected troops.
 * Player can drag select to create square selection on troops. 
